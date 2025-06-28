@@ -10,3 +10,11 @@
     rm testing.py
     git status
     git restore testing.py
+    git add git_commands.txt
+    git commit -m "added git commands "
+    git status
+    git remote add origin https://github.com/pravin-1040/-Github_Devops_Workshop.git
+    git remote -v
+    git push origin master
+    git remote -v
+    git push origin master

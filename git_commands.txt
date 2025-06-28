@@ -19,5 +19,7 @@
     git remote -v
     git push origin master
 
+    Done all those things with TrainWithShubham worksshop
+
 
 I have done some changes

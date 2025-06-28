@@ -1,0 +1,12 @@
+    ls
+    git status
+    git status
+    python testing.py
+    git add testing.py
+    git status
+    git commit -m "added testing files"
+    git config --global user.email "pravinsanjaychavan1999@gmail.com"
+    git commit -m "added testing files"
+    rm testing.py
+    git status
+    git restore testing.py

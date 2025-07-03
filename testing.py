@@ -1,1 +1,2 @@
-print("hello Friends")
+def my_fun()
+print("hello Friends") 
